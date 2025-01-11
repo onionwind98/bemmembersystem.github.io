@@ -43074,7 +43074,7 @@ case 3:l=c
 A.fA(n)
 m=t.N
 s=4
-return A.x(A.b_d(n,A.an(["Content-type","application/json","Accept","application/json","Authorization","Bearer "+A.k(l)],m,m)),$async$kX)
+return A.x(A.b_d(n,A.an(["Content-type","application/json","Accept","application/json","Authorization","Bearer "+A.k(l),"ngrok-skip-browser-warning","true"],m,m)),$async$kX)
 case 4:o=c
 q=B.aT.q4(A.aKw(A.aJu(o.e).c.a.h(0,"charset")).eR(o.w),null)
 s=1
@@ -43090,7 +43090,7 @@ return A.x(t._.b(m)?m:A.cA(m,t.z),$async$mY)
 case 3:l=d
 m=t.N
 s=4
-return A.x(A.b00(n,B.aT.lo(b),A.an(["Content-type","application/json","Accept","application/json","Authorization","Bearer "+A.k(l)],m,m)),$async$mY)
+return A.x(A.b00(n,B.aT.lo(b),A.an(["Content-type","application/json","Accept","application/json","Authorization","Bearer "+A.k(l),"ngrok-skip-browser-warning","true"],m,m)),$async$mY)
 case 4:o=d
 q=B.aT.q4(A.aKw(A.aJu(o.e).c.a.h(0,"charset")).eR(o.w),null)
 s=1
