@@ -48297,7 +48297,7 @@ m(){this.aS()},
 oG(){var s=0,r=A.K(t.z),q=1,p,o=this,n,m,l,k,j,i,h,g
 var $async$oG=A.F(function(a,b){if(a===1){p=b
 s=q}while(true)switch(s){case 0:i=t.z
-h=A.au(["memberID",o.a.c.b],i,i)
+h=A.au(["id",o.a.c.a],i,i)
 q=3
 s=6
 return A.z(o.e.r3("deleteMember",h),$async$oG)
